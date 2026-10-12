@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=YOUR%20NAME&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=YOUR%20ROLE%20%7C%20YOUR%20ROLE%20%7C%20YOUR%20ROLE&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=YASHAS KIRAN&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=YOUR%20ROLE%20%7C%20YOUR%20ROLE%20%7C%20YOUR%20ROLE&descAlignY=58&descSize=18" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+amazing+projects;Learning+new+technologies;Exploring+Artificial+Intelligence;Turning+ideas+into+real+projects" alt="Typing SVG" />
 
@@ -34,9 +34,8 @@
 ## ▪ About Me
 
 ```yaml
-name: YOUR NAME
-education: YOUR DEGREE
-role: YOUR ROLE
+name: YASHAS KIRAN
+education: COMPUTER SCIENCE 
 
 focus:
   - YOUR SKILL
