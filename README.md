@@ -37,16 +37,6 @@
 name: YASHAS KIRAN
 education: COMPUTER SCIENCE 
 
-focus:
-  - YOUR SKILL
-  - YOUR SKILL
-  - YOUR SKILL
-
-currently_learning:
-  - YOUR SKILL
-  - YOUR SKILL
-  - YOUR SKILL
-
 mindset: Learn → Build → Share → Improve
 ```
 
@@ -82,85 +72,15 @@ Write 2–4 lines about yourself here.
 
 ---
 
-## ▪ My Learning Journey
 
-```text
-YOUR CURRENT FIELD ↓ YOUR SKILL ↓ YOUR SKILL ↓ YOUR SKILL ↓ YOUR GOAL
-```
 
-### Currently Exploring
 
-- YOUR TOPIC
-- YOUR TOPIC
-- YOUR TOPIC
-- YOUR TOPIC
-
----
-
-## ▪ Featured Projects
-
-### ▪ Project 01 — YOUR PROJECT NAME
-
-Write a short description of your project here.
-
-**Tech Stack:**
-
-`Python` `React` `Flask` `MySQL`
-
----
-
-### ▪ Project 02 — YOUR PROJECT NAME
-
-Write a short description of your project here.
-
-**Tech Stack:**
-
-`HTML` `CSS` `JavaScript`
-
----
-
-### ▪ Project 03 — YOUR PROJECT NAME
-
-Write a short description of your project here.
-
-**Tech Stack:**
-
-`Flutter` `Dart` `Firebase`
-
----
-
-## ▪ My Learning Journey
 
 ```text
 Education ↓ Programming ↓ Development ↓ Advanced Skills ↓ Real Projects ↓ Professional Growth
 ```
 
 > Learn → Build → Share → Improve
-
----
-
-## ▪ Current Focus
-
-```yaml
-learning:
-  - YOUR SKILL
-  - YOUR SKILL
-  - YOUR SKILL
-
-building:
-  - YOUR PROJECT
-  - YOUR PROJECT
-
-exploring:
-  - YOUR TOPIC
-  - YOUR TOPIC
-
-goal:
-  - YOUR GOAL
-  - YOUR GOAL
-```
-
----
 
 ## ▪ GitHub
 
