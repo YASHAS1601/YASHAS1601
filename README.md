@@ -40,8 +40,6 @@ education: COMPUTER SCIENCE
 mindset: Learn → Build → Share → Improve
 ```
 
-Write 2–4 lines about yourself here.
-
 ---
 
 ## ▪ Tech Stack
