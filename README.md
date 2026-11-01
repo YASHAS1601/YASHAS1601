@@ -11,7 +11,7 @@
 
 <img src="https://img.shields.io/badge/FOCUS-Your%20Focus-7C3AED?style=for-the-badge" />
 
-<img src="https://img.shields.io/badge/BASED%20IN-Your%20Country-4C1D95?style=for-the-badge" />
+<img src="https://img.shields.io/badge/BASED%20IN-Your%20INDIA-4C1D95?style=for-the-badge" />
 
 <br/><br/>
 
